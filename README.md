@@ -10,6 +10,7 @@
 
 </div>
 
+
 Corsair is a fully-featured product integration platform with a seamless DX. Build anything, from an agent working across all your integrations to a multi-tenant dashboard for your users to connect to anything.
 
 [![Corsair Demo](https://img.youtube.com/vi/fflIzDutxsc/maxresdefault.jpg)](https://youtu.be/fflIzDutxsc)
@@ -35,6 +36,7 @@ We welcome PRs for the core library, docs, tooling, and new integration plugins.
 For a new integration, claim it on the [OSS Integrations page](https://corsair.dev/oss) before you start, then open an issue with the API you want to add. Questions? Ask in [Discord](https://discord.gg/uNgCP3mSzU).
 
 ---
+
 ## License
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/corsairdev/corsair/blob/main/LICENSE) for details.
